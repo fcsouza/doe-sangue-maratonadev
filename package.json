@@ -1,0 +1,17 @@
+{
+  "name": "doe-sangue-maratonadev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fcsouza/doe-sangue-maratonadev.git",
+  "author": "fcsouza <fcsouza18@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "nunjucks": "^3.2.0",
+    "pg": "^7.18.2"
+  }
+}
